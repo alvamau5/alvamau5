@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **in my project's personal**
 
-- 🌱 I’m currently learning **Android and fronted developer**
+- 🌱 I’m currently learning **Android and Backend web developer**
 
-- 👯 I’m looking to collaborate like **android and web developer**
+- 👯 I’m looking to collaborate like **android and Backend web developer**
 
-- 🤝 I’m looking for help with **android and web developer**
+- 🤝 I’m looking for help with **android and Backend web developer**
 
 - 💬 Ask me about **java, android and web developer**
 
@@ -19,7 +19,7 @@ I like to create personal projects for practice my skills.
 Last Projects:
 
 * Sistema de Vacaciones - https://github.com/alvamau5/Proyecto-Vacaciones
-* Sistema de Sucursal -
+* Aplicacion de Clima - https://github.com/alvamau5/weather-app
 * Mantenimineto a Todo Civil - https://www.todocivil.com/
 
 
